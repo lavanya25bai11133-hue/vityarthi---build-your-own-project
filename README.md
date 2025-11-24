@@ -115,9 +115,6 @@ Scatter plot
 Download lavi.py.
 
 ### 3. Run the Project
-Open terminal and run the command:
-
-python3 lavi.py
 
 ### 4. Model is ready to use!
 
