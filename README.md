@@ -9,6 +9,7 @@ This model helps track an autism patient’s therapy progress for better monitor
 - [Steps to Install & Run the Project](#steps-to-install--run-the-project)
 - [Instructions for Testing the Model](#instructions-for-testing-the-model)
 - [Screenshots](#screenshots)
+- [Submittion](#Submittion)
 
 ---
 
@@ -112,7 +113,7 @@ Scatter plot
 ### 1. Install Python 3
 
 ### 2. Download the Project File
-Download lavi.py.
+Download LAVANYA.py.
 
 ### 3. Run the Project
 
@@ -145,3 +146,7 @@ Download lavi.py.
 <img width="846" height="823" alt="Screenshot 2025-11-24 at 10 42 07 PM" src="https://github.com/user-attachments/assets/c499ceb4-20e5-487c-b100-10d019c0f64f" />
 
 </details>
+
+---
+### Submittion
+VITYARTHI PROJECT DONE BY LAVANYA BISHT 
