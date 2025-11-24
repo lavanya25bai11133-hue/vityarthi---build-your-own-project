@@ -99,9 +99,15 @@ x["Autism_Diagnosis"] = df["Autism_Diagnosis"]
 model = RandomForestRegressor(max_depth=2, random_state=100)
 model.fit(x, y_encoded)
 
+# ---------------- GUI ----------------
+
 root = tk.Tk()
 root.title("Autism Therapy Progress Predictor")
-root.geometry("850x800")
+
+# Make UI scale better on high-DPI displays and give a bit more height
+root.tk.call('tk', 'scaling', 1.25)  # adjust if needed[web:8][web:11]
+root.geometry("900x900")             # more room so button is visible on most screens
+
 root.configure(bg="#e8f0fe")
 
 title = tk.Label(root, text="Therapy Progress Prediction System",
@@ -216,3 +222,4 @@ predict_btn = tk.Button(
 predict_btn.pack()
 
 root.mainloop()
+
